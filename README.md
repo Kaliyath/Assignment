@@ -60,6 +60,10 @@ Response: Status code 200 for successfully verified request and status code 400 
 	Default Port : 8080 
 	Port configuration is property is available in the application.properties file
 	
+	[Note: If you are using 8080 port for other process, please kill that process and execute bat file,
+	       or 
+		   Change the port in application.properties file and save the file ]
+	
     This batch file will clean and install the application.
 	Batch file will execute Junit test cases
 	Batch file will start the embedded tomcat server, it will use default port 8080 
