@@ -1,4 +1,4 @@
-# Code_Assaignment
+# Assignment
 
 This project provides math captcha rest services
 
